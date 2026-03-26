@@ -1,0 +1,13 @@
+# Core Deep Learning
+torch>=2.0.0
+torchvision
+torchaudio
+
+# HPC and Custom Extensions
+ninja             # Crucial for fast C++ JIT compilation in PyTorch
+pybind11          # The bridge between C++ and Python
+
+# Visualization and Data
+matplotlib        # For the Midterm Report plots only
+pandas            # For processing LOBSTER logs
+numpy   
